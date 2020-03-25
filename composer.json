@@ -1,5 +1,5 @@
 {
-    "name": "serg/mailchecker",
+    "name": "ksenofontovs/mailchecker",
     "description": "Validate email library",
     "type": "library",
     "authors": [
